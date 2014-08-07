@@ -1,4 +1,4 @@
-mochafac
+MyFriki
 ========
 
-mochafac
+MyFriki App
